@@ -1,0 +1,15 @@
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.csproj.AssemblyReference.cache
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.AssemblyInfoInputs.cache
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.AssemblyInfo.cs
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.csproj.CoreCompileInputs.cache
+C:\Projects\AdventOfCode\Puzzle2\bin\Debug\net6.0\Puzzle2.exe
+C:\Projects\AdventOfCode\Puzzle2\bin\Debug\net6.0\Puzzle2.deps.json
+C:\Projects\AdventOfCode\Puzzle2\bin\Debug\net6.0\Puzzle2.runtimeconfig.json
+C:\Projects\AdventOfCode\Puzzle2\bin\Debug\net6.0\Puzzle2.dll
+C:\Projects\AdventOfCode\Puzzle2\bin\Debug\net6.0\ref\Puzzle2.dll
+C:\Projects\AdventOfCode\Puzzle2\bin\Debug\net6.0\Puzzle2.pdb
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.dll
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\ref\Puzzle2.dll
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.pdb
+C:\Projects\AdventOfCode\Puzzle2\obj\Debug\net6.0\Puzzle2.genruntimeconfig.cache
